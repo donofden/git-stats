@@ -18,7 +18,7 @@ https://github.com/PyGithub/PyGithub
 
 Install
 
-$ pip install PyGithub
+`$ pip install PyGithub`
 
 Example Output:
 ```
