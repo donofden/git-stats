@@ -19,3 +19,25 @@ https://github.com/PyGithub/PyGithub
 Install
 
 $ pip install PyGithub
+
+Example Output:
+```
+---------------------------------------------------------
+Organization :  ORGANIZATION_NAME
+---------------------------------------------------------
+ 
+#########################################################
+ 
+Repository   :  ORGANIZATION_NAME/REPO
+ 
+TOTAL Pull Request By User:
+ 
+ User:  DonOfDen : 26
+ User:  TomJPHP : 12
+ 
+Commented PR:
+ User:  DonOfDen : 2
+ User:  TomJPHP : 2
+ 
+#########################################################
+```
