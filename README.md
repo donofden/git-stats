@@ -1,5 +1,5 @@
 # git-stats
-Get Git Stats using GIT API
+Get Git Stats using GIT API - CLI Tool
 
 Following need to be updated in config-sample.ini:
 
