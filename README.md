@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/donofden/git-stats.svg)](http://hits.dwyl.io/donofden/git-stats)
+
 # git-stats
 Get Git Stats using GIT API - CLI Tool
 
