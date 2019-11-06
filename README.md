@@ -18,7 +18,7 @@ Now you can run the `git.py` to see the following:
 **Required Library**
 https://github.com/PyGithub/PyGithub
 
-Install
+Install...
 
 `$ pip install PyGithub`
 
